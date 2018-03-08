@@ -12,7 +12,7 @@
 
 
 **Equipe gedais:**  
-Gerson Vieira;
-Herbert Medeiros;
-José Karlisson;
+Gerson Vieira;  
+Herbert Medeiros;  
+José Karlisson Padilha de Farias Júnior;  
 Robério de França.
