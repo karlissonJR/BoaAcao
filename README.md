@@ -11,7 +11,7 @@
 
 
 
-**Equipe_gedais:**
+**Equipe gedais:**  
 Gerson Vieira;
 Herbert Medeiros;
 José Karlisson;
