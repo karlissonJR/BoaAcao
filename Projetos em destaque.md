@@ -2,7 +2,7 @@
 
 **Joyz**
 
-O aplicativo Joyz funciona basicamente como uma rede social, como istagram ou facebook por exemplo, ele possibilita a interação de pessoas que querem ajudar com pessoas que precisam de ajuda. A moeda simbólica Joyz vale R$ 0,10 e os usuários podem ajudar aqueles que mais precisam com doações entre 1 e 100 Joyz. A ideia do app surgiu porque perceberam que muitas pessoas q precisavam de ajuda postavam no facebook ou outra rede social e acabavam recebendo muitas curtidas porém isso não tinha  retorno algum.
+-O aplicativo Joyz funciona basicamente como uma rede social, como istagram ou facebook por exemplo, ele possibilita a interação de -pessoas que querem ajudar com pessoas que precisam de ajuda. A moeda simbólica Joyz vale R$ 0,10 e os usuários podem ajudar -aqueles que mais precisam com doações entre 1 e 100 Joyz. A ideia do app surgiu porque perceberam que muitas pessoas q precisavam -de ajuda postavam no facebook ou outra rede social e acabavam recebendo muitas curtidas porém isso não tinha  retorno algum.
 
 
 **One Today**
