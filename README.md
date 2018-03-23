@@ -17,5 +17,5 @@ O aplicativo promete simplificar doações à instituições que geralmente são
    <li>Gerson Vieira da Silva;</li>  
    <li>José Herbert Medeiros da Silva Filho;</li>
    <li>José Karlisson Padilha de Farias Júnior;</li>  
-   <li>Robério de França.</li> 
+   <li>Robério França de Melo.</li> 
 </ul>
