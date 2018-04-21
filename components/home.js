@@ -1,19 +1,21 @@
 import React, { Component } from 'react';
 import {
   Text,
-  View
+  View,
+  Image
 } from 'react-native';
 
 import styles from './style';
 
-class Teste extends Component{
+class Principal extends Component{
   render(){
     return(
-      <View>
-          <Text style={styles.texto}>Hello World</Text>
+      <View style={styles.telaInicial}>
+        <Image source={require('./Imagens/lampada.png')} style={styles.imagemLampada} />
+        <Text style={styles.boaAcaoTxt1}>Boa Ação</Text>
+        <Text style={styles.boaAcaoTxt2}>É com pouco que se faz muito!</Text>
       </View>
     );
   }
 }
-
-export default Teste;
+export default Principal;

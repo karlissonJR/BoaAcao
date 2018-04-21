@@ -5,12 +5,12 @@
  */
 
 import React, { Component } from 'react';
-import Teste from './components/home';
+import Principal from './components/home';
 
 export default class App extends Component<Props> {
   render() {
     return (
-      <Teste/>
+      <Principal/>
     );
   }
 }
