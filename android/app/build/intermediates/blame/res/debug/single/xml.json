@@ -1,6 +1,10 @@
 [
     {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/karlisson/.android/build-cache/484f39d9b9ec58c89aed105253a6f7c0853e9a75/output/res/xml/preferences.xml"
+    },
+    {
         "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/xml/preferences.xml"
+        "source": "/home/karlisson/.android/build-cache/7adcf8971495d6d4ce4776d1c9b55a826ef526fd/output/res/xml/preferences.xml"
     }
 ]

@@ -1,66 +1,146 @@
 [
     {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/karlisson/.android/build-cache/7adcf8971495d6d4ce4776d1c9b55a826ef526fd/output/res/anim/catalyst_fade_out.xml"
     },
     {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_fade_out.xml"
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/karlisson/.android/build-cache/484f39d9b9ec58c89aed105253a6f7c0853e9a75/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/karlisson/.android/build-cache/484f39d9b9ec58c89aed105253a6f7c0853e9a75/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_push_up_out.xml"
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/tooltip_enter.xml"
     },
     {
         "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_slide_down.xml"
+        "source": "/home/karlisson/.android/build-cache/7adcf8971495d6d4ce4776d1c9b55a826ef526fd/output/res/anim/catalyst_slide_down.xml"
     },
     {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/home/karlisson/.android/build-cache/484f39d9b9ec58c89aed105253a6f7c0853e9a75/output/res/anim/catalyst_slide_down.xml"
     },
     {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_slide_up.xml"
-    },
-    {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_push_up_in.xml"
-    },
-    {
-        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+        "source": "/home/karlisson/.android/build-cache/7adcf8971495d6d4ce4776d1c9b55a826ef526fd/output/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_fade_in.xml"
+        "source": "/home/karlisson/.android/build-cache/7adcf8971495d6d4ce4776d1c9b55a826ef526fd/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/karlisson/.android/build-cache/484f39d9b9ec58c89aed105253a6f7c0853e9a75/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/karlisson/.android/build-cache/484f39d9b9ec58c89aed105253a6f7c0853e9a75/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/karlisson/.android/build-cache/7adcf8971495d6d4ce4776d1c9b55a826ef526fd/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/karlisson/.android/build-cache/484f39d9b9ec58c89aed105253a6f7c0853e9a75/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/karlisson/.android/build-cache/7adcf8971495d6d4ce4776d1c9b55a826ef526fd/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/karlisson/.android/build-cache/f4c6fe24c2b9af1c63e5edf02a6e0e916671b2d3/output/res/anim/abc_slide_out_top.xml"
     }
 ]

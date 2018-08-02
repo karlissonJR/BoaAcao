@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/karlisson/Projetos/BoaAcao/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/karlisson/.android/build-cache/7ec2a3c567c3c4c523fe0d3a82298609a6dcd7e3/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/karlisson/react_native/BoaAcao/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/karlisson/.android/build-cache/7ec2a3c567c3c4c523fe0d3a82298609a6dcd7e3/output/res/layout-v16/notification_template_custom_big.xml"
+    }
+]
